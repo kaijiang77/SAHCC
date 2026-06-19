@@ -1,0 +1,6 @@
+matcher_impl: sah
+set_cost_class: 1.0
+set_cost_point: 1.0
+matcher_point_source: anchor_points
+matcher_k: 1.2
+matcher_alpha_min: 0.03

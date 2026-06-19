@@ -1,0 +1,11 @@
+# @package _global_
+
+defaults:
+  - override /data: shha
+  - override /model: sahcc
+  - override /matcher: matcher
+  - override /trainer: default
+  - override /optimizer: adamw
+  - override /scheduler: steplr
+
+run_name: shha_baseline

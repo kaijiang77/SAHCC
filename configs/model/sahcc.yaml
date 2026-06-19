@@ -1,0 +1,10 @@
+backbone: vgg16_bn
+row: 2
+line: 2
+head_hidden_dim: 256
+decoder_c4_channels: 512
+decoder_c5_channels: 512
+decoder_out_channels: 256
+anchor_pyramid_level: 3
+offset_scale: 100.0
+point_loss_coef: 0.0002

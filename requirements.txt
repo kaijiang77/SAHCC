@@ -1,0 +1,16 @@
+# Python 3.12 was used in the countnet environment.
+#
+# For CUDA-specific PyTorch wheels, install torch/torchvision from the
+# official PyTorch selector if your platform cannot resolve these wheels.
+torch==2.9.0
+torchvision==0.24.0
+
+lightning==2.6.1
+hydra-core==1.3.2
+omegaconf==2.3.0
+tensorboard==2.20.0
+
+numpy==1.26.4
+scipy==1.16.2
+pillow==11.3.0
+opencv-python==4.11.0.86

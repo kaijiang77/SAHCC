@@ -1,0 +1,43 @@
+# Local datasets and large artifacts
+/data/*
+!/data/
+!/data/README.md
+/weights/
+
+# Keep only public SHHA data-processing tools.
+/tools/*
+!/tools/
+!/tools/prepare_shha.py
+!/tools/README.md
+
+# Keep only the public SHHA data config.
+/configs/data/*
+!/configs/data/
+!/configs/data/shha.yaml
+
+# Local scratch files
+/matcher.py
+/test.py
+/mingling
+
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs and runtime outputs
+logs/
+runs/
+ckpt/
+outputs/
+*.log
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
