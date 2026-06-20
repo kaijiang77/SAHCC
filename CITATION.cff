@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the paper and this repository."
-title: "SAHCC: SHHA Reproduction Code for Crowd Counting"
+message: "If you use this code, please cite the paper and this repository. This citation file uses temporary placeholder metadata and will be updated after the camera-ready metadata is finalized."
+title: "Local Spacing-Aware Hungarian Matching for Stable Point-Supervised Crowd Counting"
 authors:
-  - family-names: "SAHCC Authors"
+  - family-names: "Author Names"
 version: 1.0.0
 date-released: 2026-06-19
-repository-code: "https://github.com/<your-org>/<your-repo>"
+repository-code: "https://github.com/kaijiang77/SAHCC"
 preferred-citation:
   type: conference-paper
-  title: "Local Spacing-Aware Hungarian Matching for Crowd Counting"
+  title: "Local Spacing-Aware Hungarian Matching for Stable Point-Supervised Crowd Counting"
   authors:
-    - family-names: "SAHCC Authors"
-  conference: "European Conference on Computer Vision"
+    - family-names: "Author Names"
+  conference: "European Conference on Computer Vision (ECCV)"
   year: 2026
