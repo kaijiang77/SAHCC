@@ -205,8 +205,6 @@ SAHCC-ready/
 └── outputs/       local Hydra/runtime outputs, ignored by Git
 ```
 
-The public code path is centered on SHHA. Other datasets and their preprocessing scripts are intentionally not included in this release.
-
 ---
 
 ## License
